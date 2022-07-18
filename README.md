@@ -12,6 +12,9 @@ the customer can add adtnial itmes  base on that the shop offer and he can selct
 - Store all user data in local db.
 - login to app throw phone number .
 - Store productes data in local db .
+- allow user to select multy location to delivery.
+- allow user to edite location and It name .
 - 
+
 
 
