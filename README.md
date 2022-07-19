@@ -42,7 +42,51 @@ the customer can add additional itmes  base on that the shop offer and he can se
 
 ## packages used in this project
 ```sh
-127.0.0.1:8000
+        get: ^3.25.5
+        cloud_firestore: ^0.14.4
+        firebase_core: ^0.5.3
+        firebase_auth: ^0.18.4
+        bottom_navy_bar:
+        animated_background:
+        url_launcher:
+        font_awesome_flutter:
+        carousel_pro:
+        badges:
+        expandable:
+        floating_pullup_card:
+        horizontal_card_pager:
+        like_button:
+        otp_screen:
+        otp_text_field:
+        loading_indicator:
+        google_fonts:
+        flutter_spinkit:
+        toggle_switch:
+        flutter_icons:
+        flutter_datetime_picker:
+        flutter_date_picker_timeline:
+        google_maps_flutter:
+        geolocator:
+        location: ^3.2.2
+        geocoder:
+        connectivity_plus:
+        cupertino_icons:
+        timeline_tile:
+        status_change:
+        shared_preferences: ^0.5.12+2
+        day_night_time_picker:
+        flutter_image_slideshow: ^0.0.4
+        buttons_tabbar:
+        animated_splash_screen:
+        pull_to_refresh:
+        animated_text_kit:
+        carousel_slider:
+        smooth_star_rating:
+        cached_network_image:
+        pin_code_fields: ^6.0.1
+        mask_text_input_formatter: ^1.2.1
+        smooth_page_indicator: ^0.2.3
+        date_picker_timeline: ^1.2.1
 ```
 
 
