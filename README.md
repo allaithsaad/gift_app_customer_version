@@ -40,7 +40,11 @@ the customer can add additional itmes  base on that the shop offer and he can se
 ![1 (17)](https://user-images.githubusercontent.com/75394655/179645751-bfc500e1-0d57-4675-86ad-b02e6faab6a8.jpg)
 ![1 (18)](https://user-images.githubusercontent.com/75394655/179645753-f5197b87-4a79-431f-8965-56edd6590c13.jpg)
 
-## packages used in this projacts
+## packages used in this project
+```sh
+127.0.0.1:8000
+```
+
 
 
 
