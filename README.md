@@ -21,31 +21,8 @@ the customer can add additional itmes  base on that the shop offer and he can se
 - track conncation network status .
 - there is more ....
 
-## Screen Shots
-![1 (1)](https://user-images.githubusercontent.com/75394655/179777340-94342567-8432-4118-aa1b-74d53d2bd3af.jpg)
-![1 (2)](https://user-images.githubusercontent.com/75394655/179777395-c2f67b19-d3ab-4fd0-8a07-a3b3c42e0df7.jpg)
-
-![1 (30)](https://user-images.githubusercontent.com/75394655/179774074-02bf259b-af19-4778-9c46-1365e48cb8d9.jpg)
-![1 (31)](https://user-images.githubusercontent.com/75394655/179774080-deddac4b-a336-4d3d-9da0-36796a331663.jpg)
-![1 (32)](https://user-images.githubusercontent.com/75394655/179774100-5927263c-d37f-4045-b203-a307945210cf.jpg)
-![1 (33)](https://user-images.githubusercontent.com/75394655/179774105-e5ccd9b3-5508-4f41-bd1a-dad8bd48cc66.jpg)
-![1 (34)](https://user-images.githubusercontent.com/75394655/179774118-03b12db8-510e-4b9f-9187-727d4f5fe734.jpg)
-![1 (35)](https://user-images.githubusercontent.com/75394655/179774120-23d0380c-68ce-43ee-90d3-de1497b4b0c2.jpg)
-![1 (36)](https://user-images.githubusercontent.com/75394655/179774128-fbd2679d-f378-4913-bec3-a874388a7fd5.jpg)
-![1 (19)](https://user-images.githubusercontent.com/75394655/179774135-b04085f1-6ab2-440c-92bb-78e1a55f8446.jpg)
-![1 (20)](https://user-images.githubusercontent.com/75394655/179774143-70a723a8-f8cb-45ee-87c1-7b078d1e5439.jpg)
-![1 (21)](https://user-images.githubusercontent.com/75394655/179774152-a4e7347e-f973-42bd-8495-168b88d6dfa0.jpg)
-![1 (22)](https://user-images.githubusercontent.com/75394655/179774157-0b111c2d-0d09-428b-a0d6-bd187d6cceea.jpg)
-![1 (23)](https://user-images.githubusercontent.com/75394655/179774164-f804a6ad-6162-40a9-bedf-a3da53c8aa7c.jpg)
-![1 (24)](https://user-images.githubusercontent.com/75394655/179774172-6f505cbd-b3af-477c-a43a-3aca2b54c6e2.jpg)
-![1 (25)](https://user-images.githubusercontent.com/75394655/179774180-b2a38ebc-412d-4044-be6d-e1f072607c2f.jpg)
-![1 (26)](https://user-images.githubusercontent.com/75394655/179774191-443e5fcb-2442-48e3-bddb-eebdb069fea4.jpg)
-![1 (27)](https://user-images.githubusercontent.com/75394655/179774198-f34770c1-aee4-4960-990f-995dbfa285ec.jpg)
-![1 (28)](https://user-images.githubusercontent.com/75394655/179774202-e0083dab-0416-4054-b63c-0065c67da050.jpg)
-![1 (29)](https://user-images.githubusercontent.com/75394655/179774203-50059aab-63c0-4efd-a8d0-072ef5382d01.jpg)
-
 ## packages used in this project
-```sh
+```dart
         get: ^3.25.5
         cloud_firestore: ^0.14.4
         firebase_core: ^0.5.3
@@ -92,6 +69,27 @@ the customer can add additional itmes  base on that the shop offer and he can se
         smooth_page_indicator: ^0.2.3
         date_picker_timeline: ^1.2.1
 ```
+## Screen Shots
+![1 (30)](https://user-images.githubusercontent.com/75394655/179774074-02bf259b-af19-4778-9c46-1365e48cb8d9.jpg)
+![1 (31)](https://user-images.githubusercontent.com/75394655/179774080-deddac4b-a336-4d3d-9da0-36796a331663.jpg)
+![1 (32)](https://user-images.githubusercontent.com/75394655/179774100-5927263c-d37f-4045-b203-a307945210cf.jpg)
+![1 (33)](https://user-images.githubusercontent.com/75394655/179774105-e5ccd9b3-5508-4f41-bd1a-dad8bd48cc66.jpg)
+![1 (34)](https://user-images.githubusercontent.com/75394655/179774118-03b12db8-510e-4b9f-9187-727d4f5fe734.jpg)
+![1 (35)](https://user-images.githubusercontent.com/75394655/179774120-23d0380c-68ce-43ee-90d3-de1497b4b0c2.jpg)
+![1 (36)](https://user-images.githubusercontent.com/75394655/179774128-fbd2679d-f378-4913-bec3-a874388a7fd5.jpg)
+![1 (19)](https://user-images.githubusercontent.com/75394655/179774135-b04085f1-6ab2-440c-92bb-78e1a55f8446.jpg)
+![1 (20)](https://user-images.githubusercontent.com/75394655/179774143-70a723a8-f8cb-45ee-87c1-7b078d1e5439.jpg)
+![1 (21)](https://user-images.githubusercontent.com/75394655/179774152-a4e7347e-f973-42bd-8495-168b88d6dfa0.jpg)
+![1 (22)](https://user-images.githubusercontent.com/75394655/179774157-0b111c2d-0d09-428b-a0d6-bd187d6cceea.jpg)
+![1 (23)](https://user-images.githubusercontent.com/75394655/179774164-f804a6ad-6162-40a9-bedf-a3da53c8aa7c.jpg)
+![1 (24)](https://user-images.githubusercontent.com/75394655/179774172-6f505cbd-b3af-477c-a43a-3aca2b54c6e2.jpg)
+![1 (25)](https://user-images.githubusercontent.com/75394655/179774180-b2a38ebc-412d-4044-be6d-e1f072607c2f.jpg)
+![1 (26)](https://user-images.githubusercontent.com/75394655/179774191-443e5fcb-2442-48e3-bddb-eebdb069fea4.jpg)
+![1 (27)](https://user-images.githubusercontent.com/75394655/179774198-f34770c1-aee4-4960-990f-995dbfa285ec.jpg)
+![1 (28)](https://user-images.githubusercontent.com/75394655/179774202-e0083dab-0416-4054-b63c-0065c67da050.jpg)
+![1 (29)](https://user-images.githubusercontent.com/75394655/179774203-50059aab-63c0-4efd-a8d0-072ef5382d01.jpg)
+
+
 
 
 
