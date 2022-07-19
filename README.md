@@ -21,8 +21,8 @@ the customer can add additional itmes  base on that the shop offer and he can se
 - there is more ....
 
 ## Screen Shots
-![1 (2)](https://user-images.githubusercontent.com/75394655/179642950-dc8c577a-a161-443d-b788-3726df5a69ba.jpg)
-![1 (1)](https://user-images.githubusercontent.com/75394655/179642921-08fc775a-41ea-441c-8f6c-544a474ba668.jpg)
+![1 (2)](https://user-images.githubusercontent.com/75394655/179643352-71549590-9abe-433b-b9db-184f818b89bb.jpg)
+![1 (1)](https://user-images.githubusercontent.com/75394655/179643381-faa4d681-8126-46d2-9086-8d1e0eefa09b.jpg)
 
 ![1 (1)](https://user-images.githubusercontent.com/75394655/179639215-b964078c-746d-47a0-be2f-a83c7ad5bda5.jpg) 
 ![1 (2)](https://user-images.githubusercontent.com/75394655/179639238-99aeb7f6-0757-4e5b-906d-938f1a8c564d.jpg) 
