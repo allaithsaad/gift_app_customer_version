@@ -21,6 +21,14 @@ the customer can add additional itmes  base on that the shop offer and he can se
 - track conncation network status .
 - there is more ....
 
+
+
+ ## [ try the app from here](https://mega.nz/file/cHxDwDIS#-ujiVGTZKA3m9qqdIm6t9Ldpx4fRFJ8x12O7jrbITUY)
+```
+user : 770000000
+sms code : 000000
+
+```
 ## packages used in this project
 ```dart
         get: ^3.25.5
