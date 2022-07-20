@@ -30,7 +30,7 @@ sms code : 000000
 
 ```
 ## packages used in this project
-```dart
+```yaml
         get: ^3.25.5
         cloud_firestore: ^0.14.4
         firebase_core: ^0.5.3
