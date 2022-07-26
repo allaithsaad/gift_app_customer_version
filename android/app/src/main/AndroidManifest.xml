@@ -40,6 +40,6 @@
             android:name="flutterEmbedding"
             android:value="2" />
             <meta-data android:name="com.google.android.geo.API_KEY"
-           android:value="AIzaSyBfIOOjiAxdGT8fTjcpQImyhMK6rVW420U"/>
+           android:value=" hide due to security porous "/>
     </application>
 </manifest>
